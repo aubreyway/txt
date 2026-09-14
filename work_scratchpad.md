@@ -181,7 +181,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - What do we want to have planned for Tampa observation?
 - Workvivo post about events inbox
 - Recording waiver
-- 
+- WTR pricing convo
 ##### Action Items
 - [ ] Get with Jeremy about having Sunday lunch ordered for us 📅 2026-09-09
 - [x] 📅 2026-09-09 Submit Gloo replacement form 📅 2026-09-09 ✅ 2026-09-09
