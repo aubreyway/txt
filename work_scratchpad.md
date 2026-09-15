@@ -190,7 +190,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [ ] Make google sheet for WTR agenda items
 - [ ]  Look at Kayon's projects inbox post and create a workvivo post
 - [ ] Pre-event framework, quick Friday night huddle, Saturday and Sunday lunch (to discuss observations) - create framework docs for Scott and Julie
-- [ ] Saturday dinner is just 
+- [ ] Saturday dinner is just Roger, Jennifer, Aubrey and spouses
 
 - Aligned on 15s animated transitional videos for narrative arc, and using couples story videos separately for representation and guests seeing themselves in others' stories
 
