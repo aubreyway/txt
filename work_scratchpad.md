@@ -254,3 +254,8 @@ Find something to teach to Madison (Reprints)
 Email rodney about dept numbers (1950, 1900) and ask about receiving budget spreadsheet
 
 
+### Speaker retreat notes
+
+- [ ] Make encouragement jars for speakers
+- [ ] order new guidebooks
+- [ ] 
