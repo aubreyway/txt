@@ -187,6 +187,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [x] 📅 2026-09-09 Submit Gloo replacement form 📅 2026-09-09 ✅ 2026-09-09
 - [ ] Meeting w/ Roger and Eduardo about Spanish at WTR
 - [x] Email Carolyn about waiver - emphasize that recordings are only for internal use) ✅ 2026-09-15
+- [ ] Make 
 
 - Aligned on 15s animated transitional videos for narrative arc, and using couples story videos separately for representation and guests seeing themselves in others' stories
 
