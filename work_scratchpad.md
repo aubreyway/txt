@@ -188,9 +188,9 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [ ] Meeting w/ Roger and Eduardo about Spanish at WTR
 - [x] Email Carolyn about waiver - emphasize that recordings are only for internal use) ✅ 2026-09-15
 - [ ] Make google sheet for WTR agenda items 📅 2026-09-16
-- [ ]  Look at Kayon's projects inbox post and create a workvivo post
-- [ ] Pre-event framework, quick Friday night huddle, Saturday and Sunday lunch (to discuss observations) - create framework docs for Scott and Julie
-- [ ] Saturday dinner is just Roger, Jennifer, Aubrey and spouses
+- [ ]  Look at Kayon's projects inbox post and create a workvivo post 📅 2026-09-16
+- [ ] Pre-event framework, quick Friday night huddle, Saturday and Sunday lunch (to discuss observations) - create framework docs for Scott and Julie 📅 2026-09-16
+- [ ] Saturday dinner is just Roger, Jennifer, Aubrey and spouses 📅 2026-09-16
 
 - Aligned on 15s animated transitional videos for narrative arc, and using couples story videos separately for representation and guests seeing themselves in others' stories
 
