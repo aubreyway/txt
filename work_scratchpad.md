@@ -189,7 +189,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [x] Email Carolyn about waiver - emphasize that recordings are only for internal use) ✅ 2026-09-15
 - [ ] Make google sheet for WTR agenda items
 - [ ]  Look at Kayon's projects inbox post and create a workvivo post
-- [ ] 
+- [ ] Pre-event framework, Saturday and Sunday lunch to 
 
 - Aligned on 15s animated transitional videos for narrative arc, and using couples story videos separately for representation and guests seeing themselves in others' stories
 
