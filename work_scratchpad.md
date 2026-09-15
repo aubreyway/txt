@@ -256,6 +256,3 @@ Email rodney about dept numbers (1950, 1900) and ask about receiving budget spre
 
 ### Speaker retreat notes
 
-- [ ] Make encouragement jars for speakers
-- [ ] order new guidebooks
-- [ ] 
