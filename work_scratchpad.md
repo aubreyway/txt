@@ -192,8 +192,9 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [ ] Pre-event framework, quick Friday night huddle, Saturday and Sunday lunch (to discuss observations) - create framework docs for Scott and Julie 📅 2026-09-16
 - [ ] Saturday dinner is just Roger, Jennifer, Aubrey and spouses 📅 2026-09-16
 
-- Aligned on 15-ish second animated transitional videos for narrative arc and pre-roll videos 
-- 
+- Scott: 15-ish second animated transitional videos for narrative arc and pre-roll videos 
+- Julie: signage, slides, guidebook
+- Lauren: stage, also speaks into signage
 
 ### PMs Current workload
 
