@@ -183,7 +183,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - Recording waiver
 - WTR pricing convo
 ##### Action Items
-- [ ] Get with Jeremy about having Sunday lunch ordered for us 📅 2026-09-09
+- [x] Get with Jeremy about having Sunday lunch ordered for us 📅 2026-09-09 ✅ 2026-09-15
 - [x] 📅 2026-09-09 Submit Gloo replacement form 📅 2026-09-09 ✅ 2026-09-09
 
 - Aligned on 15s animated transitional videos for narrative arc, and using couples story videos separately for representation and guests seeing themselves in others' stories
