@@ -188,7 +188,7 @@ Anchor PMO in this principal of thinking slow and acting fast
 - [x] Make google sheet for WTR agenda items 📅 2026-09-16 ✅ 2026-09-16
 - [x] Look at Kayon's projects inbox post and create a workvivo post 📅 2026-09-16 ✅ 2026-09-16
 - [x] Pre-event framework, quick Friday night huddle, Saturday and Sunday lunch (to discuss observations) - create framework docs for Scott and Julie 📅 2026-09-16 ✅ 2026-09-16
-- [ ] Saturday dinner is just Roger, Jennifer, Aubrey and spouses 📅 2026-09-16
+- [x] Saturday dinner is just Roger, Jennifer, Aubrey and spouses 📅 2026-09-16 ✅ 2026-09-16
 - [x] Respond to Lauren Sjoberg 📅 2026-09-16 ✅ 2026-09-16
 
 - Scott: 15-ish second animated transitional videos for narrative arc and pre-roll videos 
