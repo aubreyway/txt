@@ -228,7 +228,7 @@ PM criteria - stuff PMs should/shouldn't provide support for (https://docs.googl
 
 
 - [x] Update unit price function in PO template
-- [ ] Put Docusign/etc instructions in PO template - also include link to resource folder for finding certain info (like previous billing numbers)
+- [x] Put Docusign/etc instructions in PO template - also include link to resource folder for finding certain info (like previous billing numbers) ✅ 2026-09-16
 - [x] Fix billing text size
 
 
