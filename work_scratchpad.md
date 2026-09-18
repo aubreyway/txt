@@ -182,6 +182,9 @@ Anchor PMO in this principal of thinking slow and acting fast
 - Workvivo post about events inbox
 - Recording waiver
 - WTR pricing convo
+
+- Guidebook copyright page
+- Website: "75 locations"
 ##### Action Items
 - [ ] Meeting w/ Roger and Eduardo about Spanish at WTR
 - [x] Email Carolyn about waiver - emphasize that recordings are only for internal use) ✅ 2026-09-15
